@@ -12,3 +12,8 @@ I need to get better at these and i will in time.
 
 # i elur eht dnal dna .aes ssap tnemegduj no .ytianmuh
 <img src="https://c.tenor.com/lTT6Bj52Og8AAAAC/tenor.gif" title="Evil and intimidating skeleton" alt="Evil and intimidating skeleton"/>
+
+# cool project ideas
+```java
+//TODO: make a program that has a animated dog that goes through your file explorer and eats files that have the name homework in them.
+```
