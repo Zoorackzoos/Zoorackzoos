@@ -16,4 +16,5 @@ I need to get better at these and i will in time.
 # cool project ideas
 ```java
 //TODO: make a program that has a animated dog that goes through your file explorer and eats files that have the name homework in them.
+//TODO: gmae that simulates downloading files that are large. there would have to be a pointe system or something so you could download large or small files. maybe like a click aspect in between files? or a virus prevention minigame/ 
 ```
