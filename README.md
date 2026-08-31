@@ -21,4 +21,5 @@ I need to get better at these and i will in time.
 //TODO: make my own version of this lady crashing out in her car. the rest of the ones on tenor are poor.
 //TODO: make Virasco RPG with the same dead island door mechanic and maybe some other things. have a different combat minigame per weapon? wure why not? graphics will be a bitch though.
 //TODO: "god says" program. i have a repo but i need to plug a database for it.
+//TODO: make a game where Boleman spawns clones of herself and Dyer who spawns evil robots fight in a semi-RTS like style. maybe you can have fat boleman clones that take more damage and quote-on-quote "more unfair robots" that deal more damage.
 ```
